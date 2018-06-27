@@ -1,5 +1,5 @@
 # DataProcessing 11
-
+11
 <img src="https://github.com/woofmeow1/DataProcessing-Website/blob/master/docs/bewolking.png" alt="bewolking" allign="left">
 <img src="https://github.com/woofmeow1/DataProcessing-Website/blob/master/docs/clusteringfiguur.png" alt="clusteringfiguur" allign="middle">
 <img src="https://github.com/woofmeow1/DataProcessing-Website/blob/master/docs/clustertabel.png" alt="clustertabel" allign="right">
