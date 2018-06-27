@@ -1,7 +1,7 @@
 # DataProcessing 11
 
 <img src="bewolking.png" alt="bewolking" allign="middle">
-<img src="clusteringfiguur.png" alt="clusteringfiguur" allign="middle">
+<img src="https://github.com/woofmeow1/DataProcessing-Website/blob/master/docs/clusteringfiguur.png" alt="clusteringfiguur" allign="middle">
 <img src="clustertabel.png" alt="clustertabel" allign="middle">
 <img src="ijsdag.png" alt="ijsdag" allign="middle">
 <img src="luchtref.png" alt="luchtref" allign="middle">
