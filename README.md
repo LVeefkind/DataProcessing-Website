@@ -1,7 +1,6 @@
 # DataProcessing 11
-<html>
+
 <img src="bewolking.png" alt="bewolking" allign="middle">
-</html>
 <img src="clusteringfiguur.png" alt="clusteringfiguur" allign="middle">
 <img src="clustertabel.png" alt="clustertabel" allign="middle">
 <img src="ijsdag.png" alt="ijsdag" allign="middle">
