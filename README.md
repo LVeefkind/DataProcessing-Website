@@ -3,8 +3,8 @@
 <img src="/woofmeow1/DataProcessing-Website/blob/master/docs/bewolking.png" alt="bewolking" allign="left">
 <img src="bewolking.png" alt="bewolking" allign="left">
 
-<img src="https://woofmeow1.github.io/DataProcessing-Website/docs/bewolking.png" alt="bewolking" allign="middle">
-<img src="https://woofmeow1.github.io/DataProcessing-Website/docs/clusteringfiguur.png" alt="clusteringfiguur" allign="middle">
+<img src="https://woofmeow1.github.io/DataProcessing-Website/docs/bewolking.png" alt="bewolking" allign="centre">
+<img src="https://woofmeow1.github.io/DataProcessing-Website/docs/clusteringfiguur.png" alt="clusteringfiguur" allign="right">
 <img src="https://woofmeow1.github.io/DataProcessing-Website/docs/clustertabel.png" alt="clustertabel" allign="middle">
 <img src="https://woofmeow1.github.io/DataProcessing-Website/docs/ijsdag.png" alt="ijsdag" allign="middle">
 <img src="https://woofmeow1.github.io/DataProcessing-Website/docs/luchtref.png" alt="luchtref" allign="middle">
